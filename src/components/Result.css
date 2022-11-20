@@ -1,0 +1,32 @@
+
+.maink{
+    width: 100wh;
+    height: 100vh;
+    background-color: rgba(153, 80, 80, 0.754);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: #fff;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+.first{
+    font-size: 40px;
+    font-weight: 600;
+    color: red;
+}
+
+.center{
+    padding: 55px;
+    color: green;
+}
